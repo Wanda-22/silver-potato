@@ -1,0 +1,75 @@
+img{
+    width: 150px;
+    height: 112px;
+}
+
+
+header{
+    padding: 20px;
+    font-size: 40px;
+}
+
+.column {
+    text-align: center;
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+           background-color: black;
+}
+
+.p{
+    bottom: 75;
+    box-shadow: outset 10px 10px 10px palegreen;
+    border: 12px double darkgoldenrod;
+    float: left;
+}
+
+button{
+    width: 100%;
+    height: 45px;
+    border-radius: 35px;
+    background-color: darkcyan;
+    color: wheat;
+    font-family: "fantasy";
+}
+
+body{
+    text-align: center;
+    color: palevioletred;
+    background-color: black;
+}
+
+div.polaroid {
+    text-align: center;
+    width: auto;
+    background-color: white;
+    box-shadow: 12px 12px 45px aliceblue;
+    margin-bottom: 25px;
+  }
+
+
+  h1{
+    font-family: 'Trebuchet MS';
+    
+  }
+
+  h4{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+  }
+#mc{
+    height: auto;
+    color: limegreen;
+    font-size: 25px;
+    font-family: 'Rubik Gemstones', cursive;
+    width: 100%;
+    background-color: chocolate;
+    float: right;
+}
+ul{
+    font-size: 32px;
+    height: 56px;
+}
+#h{
+    border-bottom: 10px double goldenrod;
+}
